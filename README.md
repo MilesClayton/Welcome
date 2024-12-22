@@ -20,12 +20,12 @@ I’m a Computer Science Engineering student at **Michigan State University**, a
 ## 🔗 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/miles-clayton-vanleer/)
-- [Email](Clayto99@msu.edu)
+- [clayto99@msu.edu](mailto:clayto99@msu.edu)
 
 ## 🌟 Projects & Contributions
 
 I’m constantly working to develop projects that reflect my learning journey. While some are works-in-progress, they demonstrate my commitment to improving and applying my skills in real-world scenarios.
-Visit my other Repositories on my profile!
+Currently working on a personal site to showcase my projects. Feel free to visit the Repositories on my profile for now!
 
 ## 📈 Growth Mindset
 
