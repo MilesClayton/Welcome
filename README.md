@@ -20,7 +20,7 @@ I’m a Computer Science Engineering student at **Michigan State University**, a
 ## 🔗 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/miles-clayton-vanleer/)
-- [Email](mailto:Clayto99@msu.edu)
+- [Email](Clayto99@msu.edu)
 
 ## 🌟 Projects & Contributions
 
